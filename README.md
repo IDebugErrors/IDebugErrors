@@ -37,3 +37,5 @@
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=opencv)
 ![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+
+<li> Also I am a AI enthusiast :) but most of the time (As my github username say's) I debug errors :) </li>
