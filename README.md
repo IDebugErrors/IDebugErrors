@@ -40,4 +40,8 @@
 
 <li> Peace </li>
 
--Thank you-
+2017-Journey is still on . 
+[![Stargazers over time](https://starchart.cc/Naereen/badges.svg)](https://starchart.cc/Naereen/badges) 
+
+
+
