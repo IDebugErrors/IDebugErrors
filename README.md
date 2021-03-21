@@ -38,6 +38,6 @@
 ![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 
-<li> Also I am an AI Enthusiast :) but most of the time (As my github username say's) I Debug Errors :) </li>
+<li> Peace </li>
 
 -Thank you-
