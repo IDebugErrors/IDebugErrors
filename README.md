@@ -41,7 +41,7 @@
 <li> Peace </li>
 
 2017-Journey is still on . 
-[![Stargazers over time](https://starchart.cc/Naereen/badges.svg)](https://starchart.cc/Naereen/badges) 
+[![Stargazers over time](https://github.com/IDebugErrors/TerminalPortfolio/blob/gh-pages/jay.png?raw=true)
 
 
 
