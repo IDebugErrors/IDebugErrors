@@ -41,7 +41,7 @@
 <li> Peace </li>
 
 2017-Journey is still on . 
-<img src="https://github.com/IDebugErrors/TerminalPortfolio/blob/gh-pages/jay.png?raw=true">
+<img src="https://www.zenatek.com/Content/Images/swTechnologies.jpg">
 
 
 
